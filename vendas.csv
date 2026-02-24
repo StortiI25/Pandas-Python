@@ -1,0 +1,16 @@
+id_venda,data,cliente,produto,categoria,quantidade,preco_unitario,cidade
+1,2025-01-05,Ana Silva,Notebook,Eletrônicos,1,3500,São Paulo
+2,2025-01-07,Carlos Souza,Mouse,Eletrônicos,2,80,Rio de Janeiro
+3,2025-01-10,Mariana Lima,Cadeira,Moveis,1,900,Belo Horizonte
+4,2025-01-15,João Pedro,Teclado,Eletrônicos,1,150,São Paulo
+5,2025-02-02,Ana Silva,Monitor,Eletrônicos,2,1200,Curitiba
+6,2025-02-10,Carlos Souza,Mesa,Moveis,1,700,São Paulo
+7,2025-02-18,Mariana Lima,Headset,Eletrônicos,3,250,Rio de Janeiro
+8,2025-03-01,João Pedro,Notebook,Eletrônicos,1,3500,Belo Horizonte
+9,2025-03-05,Ana Silva,Cadeira,Moveis,2,900,São Paulo
+10,2025-03-12,Carlos Souza,Mouse,Eletrônicos,5,80,Curitiba
+11,2025-03-20,Mariana Lima,Monitor,Eletrônicos,1,1200,São Paulo
+12,2025-04-02,João Pedro,Mesa,Moveis,1,700,Rio de Janeiro
+13,2025-04-10,Ana Silva,Headset,Eletrônicos,2,250,Belo Horizonte
+14,2025-04-18,Carlos Souza,Teclado,Eletrônicos,3,150,São Paulo
+15,2025-04-25,Mariana Lima,Notebook,Eletrônicos,1,3500,Curitiba

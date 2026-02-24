@@ -1,0 +1,11 @@
+data,produto,categoria,quantidade,preco
+2025-01-05,Notebook,Eletronicos,1,3500
+2025-01-10,Mouse,Eletronicos,2,80
+2025-01-15,Cadeira,Moveis,1,900
+2025-02-02,Monitor,Eletronicos,2,1200
+2025-02-10,Mesa,Moveis,1,700
+2025-03-01,Headset,Eletronicos,3,250
+2025-03-05,Cadeira,Moveis,2,900
+2025-03-12,Mouse,Eletronicos,5,80
+2025-04-10,Headset,Eletronicos,2,250
+2025-04-25,Notebook,Eletronicos,1,3500
